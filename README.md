@@ -1,21 +1,21 @@
-# Analysis of Obesity Probability in Spain
+# Análisis de la Probabilidad de Obesidad en España
 
-This notebook aims to analyze the probability of suffering from obesity in Spain, as well as the likelihood of an obese person residing in a specific province. Additionally, a basic decision tree will be constructed based on this analysis.
+Este notebook tiene como objetivo analizar la probabilidad de padecer obesidad en España, así como la probabilidad de que una persona obesa resida en una provincia específica. Además, se construirá un árbol de decisión básico basado en este análisis.
 
-## Context
-The dataset includes information on the total number of individuals diagnosed with obesity in Spain and the total population detailed by province. The data is available in the file `datos_obesidad.xlsx`.
+## Contexto
+Se cuenta con datos sobre el total de personas diagnosticadas con obesidad en España y el total de población detallado a nivel de provincia. Los datos se encuentran en el archivo `datos_obesidad.xlsx`.
 
-## Questions to Answer
-1. What is the probability of suffering from obesity in Spain?
-2. If we randomly select an obese person, what is the probability that they reside in Barcelona? What about the rest of the provinces?
-3. Construct a decision tree.
+## Preguntas a Responder
+1. ¿Cuál es la probabilidad de padecer obesidad en España?
+2. Si seleccionamos una de las personas obesas al azar, ¿cuál es la probabilidad de que resida en Barcelona? ¿Y en el resto de provincias?
+3. Construir un árbol de decisión.
 
-## Usage
-1. Clone the repository.
-2. Open the notebook and run the analysis.
+## Uso
+1. Clonar el repositorio.
+2. Abrir el notebook y ejecutar el análisis.
 
-## Data
-- `datos_obesidad.xlsx`: Contains obesity data by province in Spain.
+## Datos
+- `datos_obesidad.xlsx`: Contiene datos de obesidad por provincia en España.
 
-## Requirements
-- Python libraries: `pandas`, `numpy`, `sklearn`
+## Requisitos
+- Librerías de Python: `pandas`, `numpy`, `sklearn`
